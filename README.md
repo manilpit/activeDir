@@ -62,24 +62,3 @@ Contributions are welcome! Feel free to submit issues or pull requests if you ha
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-```markdown
-### Key Sections Explained
-
-- **Introduction**: Briefly describes what the package does.
-- **Features**: Lists the key features of the package.
-- **Installation**: Shows users how to install the package from GitHub using `devtools`.
-- **Usage**: Provides examples of how to use the key functions of the package (`set_wd_to_current()` and `set_wd_to_above()`).
-- **Example Workflow**: Describes a typical workflow scenario to illustrate how the package can be used in real-world projects.
-- **Contributing**: Invites others to contribute to the project.
-- **License**: Mentions the package's license.
-
-### How to Add the README to Your Repository
-
-1. Create a new file named `README.md` in your `activeDir` package directory.
-2. Copy the content above into the `README.md` file.
-3. Add and commit the `README.md` file:
-
-   ```bash
-   git add README.md
-   git commit -m "Add README file"
-```
